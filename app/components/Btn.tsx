@@ -22,13 +22,13 @@ const Btn = () => {
           </div>
         </div>
         <div className=" mt-5 flex items-center justify-between  ">
-          <div className=" space-x-2 flex ">
+          <div className=" space-x-2 flex md:w-0 w-full justify-between ">
             {["Basic info", "Files", "Mutual Action Plan", "Contact"].map(
               (btn, index) => {
                 return (
                   <button
                     key={index}
-                    className=" first:bg-white border border-gray-400 px-2 md:px-3 py-2 text-text-color-200 font-semibold leading-5 first:text-primary-color rounded-t-md capitalize text-sm whitespace-nowrap md:text-base "
+                    className=" first:bg-white border border-gray-400 px-2 md:px-3 py-2 text-text-color-200 font-semibold leading-5 first:text-primary-color rounded-t-md capitalize text-[13px] whitespace-nowrap md:text-base "
                   >
                     {btn}
                   </button>

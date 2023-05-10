@@ -55,7 +55,7 @@ const CompanyProfile = () => {
             alt=" Office of WeWork + Salesforce "
           />
           <div className=" absolute top-5 inset-x-0 flex justify-center items-center ">
-            <div className="  bg-white/70 rounded-md  flex justify-center items-center space-x-4 md:space-x-5 py-2 px-4 border border-[#D3D7D7] backdrop-blur-sm ">
+            <div className="  bg-white/70 rounded-md flex justify-center items-center space-x-3 md:space-x-5 py-2 px-4 border border-[#D3D7D7] backdrop-blur-sm ">
               <button className=" flex items-end justify-center space-x-2  ">
                 {" "}
                 <DocumentIcon />{" "}
