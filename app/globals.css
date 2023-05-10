@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@layer components {
+    .card {
+        background: -webkit-linear-gradient(140deg, #ffffffb3 70%, transparent 0%);
+    }
+
+    .cardMobile {
+        background: -webkit-linear-gradient(155deg, #ffffffb3 70%, transparent 0%);
+    }
+}
