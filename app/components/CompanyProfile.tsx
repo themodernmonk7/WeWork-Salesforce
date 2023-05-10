@@ -96,7 +96,7 @@ const CompanyProfile = () => {
                 alt=" WeWork Logo "
               />
               <p className=" font-bold text-sm md:text-xl ">
-                For all the ways you work, we're here
+                {`For all the ways you work, we're here`}
               </p>
             </div>
           </div>
