@@ -7,6 +7,27 @@ This project is a frontend web application built with Next.js, Typescript, and T
 
 ## Live Project
 You can access the live version by following this link [WeWork+Salesforce](https://we-work-salesforce.vercel.app/)
+
+## Screenshots
+
+**Final Version**
+
+![Banner](https://res.cloudinary.com/die12ywpb/image/upload/v1683987618/we-work-salesforce.vercel.app__qb3dwy.png)
+
+**Design from Figma**
+
+[Figma Design file link ](https://www.figma.com/file/SpopbgESgYwDP23BOcwMnl/Trial-Screens?type=design&node-id=0-1&t=RvOfHwgrAEgJN8Sv-0)
+
+**Desktok**
+![Banner](https://res.cloudinary.com/die12ywpb/image/upload/v1683987617/Deal_Room_-_Basic_Info_glthmu.png)
+
+
+**Mobile**
+![Banner](https://res.cloudinary.com/die12ywpb/image/upload/v1683987615/Android_Small_-_1_l6oblg.jpg)
+
+**Mobile Menu**
+![Banner](https://res.cloudinary.com/die12ywpb/image/upload/v1683987615/Android_Small_-_Menu_gwy96a.jpg)
+
 ## Tech Stack
 
 - Next.Js (13)
