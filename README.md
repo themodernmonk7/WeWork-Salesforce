@@ -21,13 +21,6 @@ You can access the live version by following this link [WeWork+Salesforce](https
 **Desktok**
 ![Banner](https://res.cloudinary.com/die12ywpb/image/upload/v1683987617/Deal_Room_-_Basic_Info_glthmu.png)
 
-
-**Mobile**
-![Banner](https://res.cloudinary.com/die12ywpb/image/upload/v1683987615/Android_Small_-_1_l6oblg.jpg)
-
-**Mobile Menu**
-![Banner](https://res.cloudinary.com/die12ywpb/image/upload/v1683987615/Android_Small_-_Menu_gwy96a.jpg)
-
 ## Tech Stack
 
 - Next.Js (13)
